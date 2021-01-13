@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("#main").hide(0).slideDown(2000);
+    $("div").slideDown(1000);
   });
